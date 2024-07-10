@@ -1,0 +1,31 @@
+{
+  "name": "practice-learn-react",
+  "version": "1.0.0",
+  "description": "namasta react from meenakshi upadhyay",
+
+  "scripts": {
+    "start":"parcel index.html",
+    "build":"parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meenakshi01A/namasta_react_by_meenakshi"
+  },
+  "keywords": [
+    "namasta",
+    "react",
+    "meenakshi",
+    "upadhyay"
+  ],
+  "author": "meenakshi upadhyay",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
